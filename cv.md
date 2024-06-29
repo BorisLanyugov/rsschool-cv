@@ -20,3 +20,25 @@ I am an aspiring software developer with a focus on web technologies. I have a s
 - **Methodologies:** Agile, Scrum, Kanban
 - **Version control systems:** Git
 - **Development tools:** GitHub, Jira, VSCode, Postman
+
+## Code Example
+```javascript
+function multiply(a, b){
+  return a * b;
+}
+
+let = multiply(3, 5)
+alert(result)  // 15
+```
+
+## Experience
+### RS School
+- **CV project:** [GitHub] (https://github.com/BorisLanyugov/rsschool-cv)
+
+## Education
+- **College:** Minsk Radioengineering College (2017-2021), Computer Science
+- **University:**: Belarusian State University of Informatics and Radioelectronics (2021-2025), Computer Science
+
+## English Level
+- **Russian:** Native
+- **English:** B1 (Intermediate)
