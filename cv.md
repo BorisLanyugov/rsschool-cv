@@ -27,7 +27,7 @@ function multiply(a, b){
   return a * b;
 }
 
-let = multiply(3, 5)
+let result = multiply(3, 5)
 alert(result)  // 15
 ```
 
