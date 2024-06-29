@@ -33,7 +33,7 @@ alert(result)  // 15
 
 ## Experience
 ### RS School
-- **CV project:** [GitHub] (https://github.com/BorisLanyugov/rsschool-cv)
+- **CV project:** [GitHub](https://github.com/BorisLanyugov/rsschool-cv)
 
 ## Education
 - **College:** Minsk Radioengineering College (2017-2021), Computer Science
