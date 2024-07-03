@@ -1,1 +1,1 @@
-https://BorisLanyugov.github.io/rsschool-cv
+https://BorisLanyugov.github.io/rsschool-cv/
